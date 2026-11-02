@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://1wone212-glitch.github.io/manjok-aircon/sitemap.xml
+Sitemap: https://1wone212-glitch.github.io/manjok-rental/sitemap.xml
